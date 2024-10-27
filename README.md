@@ -5,7 +5,7 @@ UI of a college app that provides useful campus services that tackle day to day 
 
 This repository conatins:
 
-### Link to the prototype : https://www.figma.com/proto/Md9fTVW7Y9VbP4Dmkh1its/Untitled?node-id=166%3A237&scaling=scale-down&page-id=0%3A1&starting-point-node-id=166%3A237&show-proto-sidebar=1 
+### Link to the prototype : https://www.figma.com/proto/Md9fTVW7Y9VbP4Dmkh1its
 
 Link to the project : https://www.figma.com/file/Md9fTVW7Y9VbP4Dmkh1its/Group-2-Project-(Hello-IIITD)?type=design&node-id=0-1&mode=design
 
